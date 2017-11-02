@@ -1,3 +1,4 @@
 1. benvenuti in classe
 2. oggi facciamo una lezione su Github
 3. iscrivetevi a github
+4. aggiungo il punto 4
